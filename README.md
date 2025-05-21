@@ -26,7 +26,7 @@ The dataset consists of SMS messages labeled as **spam** or **ham**.
 ## 🚀 How to Run
 1. Clone the repository
 2. Install required packages: `pip install -r requirements.txt`
-3. Run the Jupyter notebook: `jupyter notebook SMS\ Spam\ Detection\ Analysis\ -\ NLP.ipynb`
+3. Run the Colab notebook: `Colab notebook SMS\ Spam\ Detection\ Analysis\ -\ NLP.ipynb`
 
 ## 📌 Result
 Achieved high accuracy in spam detection using NLP-based feature engineering and classic ML models.
